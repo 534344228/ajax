@@ -45,6 +45,6 @@
 	<hr>
 	<a href="javascript:void(0)">显示图书信息</a>
 	<hr>
-	<div id="showBooks">还没有选择图书信息没有自增</div>
+	<div id="showBooks">还没有选择图书信息没有自增没</div>
 </body>
 </html>
